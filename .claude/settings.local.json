@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++ sort.cpp -std=c++14 -o /tmp/sort_test)",
+      "Bash(g++ lab05.cpp -std=c++14 -o /tmp/lab05_test)",
+      "Bash(g++ lab06.cpp -std=c++14 -o /tmp/lab06_test)",
+      "Bash(g++ lab06_cont.cpp -std=c++14 -o /tmp/lab06_cont)",
+      "Bash(/tmp/lab06_cont)"
+    ]
+  }
+}
